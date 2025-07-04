@@ -1,2 +1,2 @@
 # DEMO
-This isi my first repo
+This is my first repo
